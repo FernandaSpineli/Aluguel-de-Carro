@@ -1,8 +1,12 @@
-# Aluguel-de-Carro 
+# Aluguel-de-Carro :car:
 
 Exercicio de Java. :book:
 
-Curso de orientação a objetos (Algaworks).
+Criando um sistema de aluguel de carros com orientação a objetos.
+
+Curso Java e Orientação a Objetos - Algaworks;
+
+
 
 
 
